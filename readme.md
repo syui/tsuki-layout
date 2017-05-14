@@ -4,7 +4,9 @@
 
 ## version
 
-月配列S1 : [月配列E-X](http://blog.livedoor.jp/eninlog/archives/4775068.html)を参考にしつつ、初心者にも使いやすいよう改造。
+S1 : [月配列E-X](http://blog.livedoor.jp/eninlog/archives/4775068.html)を参考にしつつ、初心者にも使いやすいよう改造
+
+S2 : 「あうえお」が使いにくかったので変更
 
 ### 月配列とは
 
